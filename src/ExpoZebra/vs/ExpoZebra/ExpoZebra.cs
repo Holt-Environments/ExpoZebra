@@ -37,5 +37,39 @@ namespace ExpoZebra
                 }
             }
         }
+
+        private String token = "";
+        public String Token
+        {
+            get
+            {
+                return token;
+            }
+            set
+            {
+                if(token != value)
+                {
+                    token = value;
+                    NotifyPropertyChanged("Token");
+                }
+            }
+        }
+
+        private String badge_id = "";
+        public String BadgeId
+        {
+            get
+            {
+                return badge_id;
+            }
+            set
+            {
+                if(badge_id != value)
+                {
+                    badge_id = value;
+                    NotifyPropertyChanged("BadgeId");
+                }
+            }
+        }
     }
 }
