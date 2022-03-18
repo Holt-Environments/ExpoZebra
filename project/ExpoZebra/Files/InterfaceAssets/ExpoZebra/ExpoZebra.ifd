@@ -1,0 +1,33 @@
+{
+  "kind": "discovery#restDescription",
+  "discoveryVersion": "v1",
+  "id": "ExpoZebra",
+  "name": "ExpoZebra",
+  "version": "1.0",
+  "protocol": "dll",
+  "baseUrl": null,
+  "basePath": "ExpoZebra",
+  "auth": {},
+  "dependencies": [
+    "ExpoZebra.dll"
+  ],
+  "schemas": {
+    "ExpoZebra": {
+      "id": "ExpoZebra",
+      "type": "object",
+      "properties": {
+        "DeviceId": {
+          "title": "DeviceId",
+          "type": "string",
+          "description": "DeviceId"
+        }
+      }
+    }
+  },
+  "resources": {
+    "ExpoZebra": {
+      "title": "ExpoZebra",
+      "isInterfaceAsset": true
+    }
+  }
+}
