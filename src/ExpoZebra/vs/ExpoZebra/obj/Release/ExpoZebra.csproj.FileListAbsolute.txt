@@ -4,3 +4,6 @@ D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Rel
 D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Release\ExpoZebra.csproj.CoreCompileInputs.cache
 D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Release\ExpoZebra.dll
 D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Release\ExpoZebra.pdb
+D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\bin\Release\Newtonsoft.Json.dll
+D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\bin\Release\Newtonsoft.Json.xml
+D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Release\ExpoZebra.csproj.CopyComplete
