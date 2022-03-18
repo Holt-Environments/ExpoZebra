@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mashup ApiNumber="10" Name="GlobalVariableDA" Description="GlobalVariableDA" Category="Value Operators" Author="IntuiLab S.A" AuthorId="IntuiLab" Icon="GlobalVariableDA.png" OriginalLocalPath=".\Local" OriginalDataPath=".\Data" OriginalProcessID="189548">
+  <MashupCollection Name="mashup_root_0" OriginalAbsoluteVisualPath="player://visuals/LogicDA/Space/Middle/Default_template_for_Global_Variable">
+    <Collection Name="Default_template_for_Global_Variable" Visual="Group" Container="Static">
+      <Properties>
+        <Property Type="Container" Name="MinimizedImage"><![CDATA[file:///D:/Jerome/Documents/IntuiFace/LogicDA/Files/InterfaceAssets/Global Variable/Data/DefaultAssets/DefaultMinimized.png]]></Property>
+        <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[file:///D:/Jerome/Documents/IntuiFace/LogicDA/Files/InterfaceAssets/Global Variable/Data/DefaultAssets/DefaultMinimized.png]]></Property>
+        <Property Type="Container" Name="X"><![CDATA[value:705]]></Property>
+        <Property Type="Container" Name="Y"><![CDATA[value:722]]></Property>
+        <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+        <Property Type="Container" Name="Height"><![CDATA[value:90]]></Property>
+        <Property Type="Visual" Name="InitialHeight"><![CDATA[value:90]]></Property>
+        <Property Type="Container" Name="Width"><![CDATA[value:230]]></Property>
+        <Property Type="Visual" Name="InitialWidth"><![CDATA[value:230]]></Property>
+      </Properties>
+      <Asset Name="Background 1" Visual="DefaultRectangle" Style="" Container="Default" ContainerStyle="" Domain="value:Rectangle">
+        <Properties>
+          <Property Type="Visual" Name="BorderThickness"><![CDATA[value:0]]></Property>
+          <Property Type="Visual" Name="BorderColor"><![CDATA[value:#00000000]]></Property>
+          <Property Type="Visual" Name="CornerRadius"><![CDATA[value:5]]></Property>
+          <Property Type="Visual" Name="BackgroundColor"><![CDATA[value:#D9D0D0D0]]></Property>
+          <Property Type="Container" Name="MinimizedImage"><![CDATA[file:///D:/Jerome/Documents/IntuiFace/LogicDA/Files/InterfaceAssets/Linear Converter/Data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[file:///D:/Jerome/Documents/IntuiFace/LogicDA/Files/InterfaceAssets/Linear Converter/Data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:115]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:230]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:90]]></Property>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:45]]></Property>
+        </Properties>
+      </Asset>
+      <Asset Name="Variable value label" Visual="DefaultText" Style="" Container="Scale" ContainerStyle="" Domain="value:Text">
+        <Properties>
+          <Property Type="Visual" Name="FontColor"><![CDATA[value:#FF333333]]></Property>
+          <Property Type="Container" Name="MinimizedImage"><![CDATA[file:///D:/Jerome/Documents/IntuiFace/LogicDA/Files/InterfaceAssets/Linear Converter/Data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[file:///D:/Jerome/Documents/IntuiFace/LogicDA/Files/InterfaceAssets/Linear Converter/Data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Visual" Name="VerticalAlignment"><![CDATA[value:Center]]></Property>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:31]]></Property>
+          <Property Type="Visual" Name="FontSize"><![CDATA[value:14]]></Property>
+          <Property Type="Visual" Name="Font"><![CDATA[value:Verdana]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:93]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:45]]></Property>
+          <Property Type="Domain" Name="Text"><![CDATA[value:VARIABLE VALUE:]]></Property>
+          <Property Type="Visual" Name="Italic"><![CDATA[value:False]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:137]]></Property>
+        </Properties>
+      </Asset>
+      <Asset Name="Text for &lt;Value&gt;" Visual="DefaultText" Style="" Container="Scale" ContainerStyle="" Domain="value:Text">
+        <Properties>
+          <Property Type="Visual" Name="FontColor"><![CDATA[value:#FF333333]]></Property>
+          <Property Type="Container" Name="MinimizedImage"><![CDATA[file:///D:/Jerome/Documents/IntuiFace/LogicDA/Files/InterfaceAssets/Linear Converter/Data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[file:///D:/Jerome/Documents/IntuiFace/LogicDA/Files/InterfaceAssets/Linear Converter/Data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Visual" Name="VerticalAlignment"><![CDATA[value:Center]]></Property>
+          <Property Type="Visual" Name="FontSize"><![CDATA[value:14]]></Property>
+          <Property Type="Visual" Name="Font"><![CDATA[value:Verdana]]></Property>
+          <Property Type="Visual" Name="Alignment"><![CDATA[value:Center]]></Property>
+          <Property Type="Visual" Name="Italic"><![CDATA[value:False]]></Property>
+          <Property Type="Visual" Name="Bold"><![CDATA[value:True]]></Property>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:60]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:36]]></Property>
+          <Property Type="Domain" Name="Text"><![CDATA[mashup://externals/Global%20Variable/output]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:183]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:45]]></Property>
+        </Properties>
+      </Asset>
+    </Collection>
+  </MashupCollection>
+  <MashupExternalAsset ContextAlias="ASSOCIATED_IA">
+    <ExternalAsset Name="Global Variable" DescriptorPath="player://data/InterfaceAssets/Global%20Variable/Variable.ifd" ExternalAssetName="Variable">
+      <Properties>
+        <Property Type="Domain" Name="output"><![CDATA[value:0]]></Property>
+      </Properties>
+      <Dependencies>
+        <Dependency URI="player://data/InterfaceAssets/Global Variable/Variable.ifd" Length="4211" LastModificationDate="2014-07-08T12:24:00Z" />
+        <Dependency URI="player://data/InterfaceAssets/Global Variable/EventEmitter.js" Length="16040" LastModificationDate="2014-07-07T10:16:02Z" />
+        <Dependency URI="player://data/InterfaceAssets/Global Variable/Variable.js" Length="1931" LastModificationDate="2014-07-07T10:16:02Z" />
+        <Dependency URI="player://data/InterfaceAssets/Global Variable/icon_variable_32.png" Length="1499" LastModificationDate="2014-07-07T10:16:02Z" />
+        <Dependency URI="player://data/InterfaceAssets/Global Variable/GlobalVariableDA.dax" Length="6589" LastModificationDate="2014-07-07T10:16:02Z" />
+        <Dependency URI="player://data/InterfaceAssets/Global Variable/GlobalVariableDA.png" Length="781" LastModificationDate="2014-07-07T10:16:02Z" />
+        <Dependency URI="player://data/InterfaceAssets/Global Variable/Data/DefaultAssets/DefaultMinimized.png" Length="5250" LastModificationDate="2014-07-07T13:32:18Z" />
+      </Dependencies>
+    </ExternalAsset>
+  </MashupExternalAsset>
+</Mashup>
