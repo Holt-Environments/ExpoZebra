@@ -17,7 +17,7 @@ namespace QuickType
     public partial class ExpoleadsApiResponse
     {
         [JsonProperty("errorCode")]
-        public long ErrorCode { get; set; }
+        public string ErrorCode { get; set; }
 
         [JsonProperty("errorText")]
         public string ErrorText { get; set; }
@@ -32,11 +32,10 @@ namespace QuickType
         public string DeviceId { get; set; }
 
         [JsonProperty("token")]
-        public Guid Token { get; set; }
+        public string Token { get; set; }
 
         [JsonProperty("scanCode")]
-        [JsonConverter(typeof(ParseStringConverter))]
-        public long ScanCode { get; set; }
+        public string ScanCode { get; set; }
 
         [JsonProperty("attendee")]
         public Attendee Attendee { get; set; }
@@ -45,12 +44,10 @@ namespace QuickType
     public partial class Attendee
     {
         [JsonProperty("Badge ID")]
-        [JsonConverter(typeof(ParseStringConverter))]
-        public long BadgeId { get; set; }
+        public string BadgeId { get; set; }
 
         [JsonProperty("Member ID")]
-        [JsonConverter(typeof(ParseStringConverter))]
-        public long MemberId { get; set; }
+        public string MemberId { get; set; }
 
         [JsonProperty("Name First")]
         public string NameFirst { get; set; }
@@ -77,8 +74,7 @@ namespace QuickType
         public string AddressState { get; set; }
 
         [JsonProperty("Address Postal")]
-        [JsonConverter(typeof(ParseStringConverter))]
-        public long AddressPostal { get; set; }
+        public string AddressPostal { get; set; }
 
         [JsonProperty("Address Country")]
         public string AddressCountry { get; set; }
