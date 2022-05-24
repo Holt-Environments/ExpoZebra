@@ -1,9 +1,0 @@
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\bin\Debug\ExpoZebra.dll
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\bin\Debug\ExpoZebra.pdb
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\bin\Debug\Newtonsoft.Json.dll
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\bin\Debug\Newtonsoft.Json.xml
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Debug\ExpoZebra.csproj.AssemblyReference.cache
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Debug\ExpoZebra.csproj.CoreCompileInputs.cache
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Debug\ExpoZebra.csproj.CopyComplete
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Debug\ExpoZebra.dll
-D:\amesa\work\Nucor\ExpoZebra Intuiface Asset\src\ExpoZebra\vs\ExpoZebra\obj\Debug\ExpoZebra.pdb

@@ -1,0 +1,9 @@
+D:\amesa\work\Prezenz Badger\src\bin\Debug\Prezenz Badger.dll
+D:\amesa\work\Prezenz Badger\src\bin\Debug\Prezenz Badger.pdb
+D:\amesa\work\Prezenz Badger\src\bin\Debug\Newtonsoft.Json.dll
+D:\amesa\work\Prezenz Badger\src\bin\Debug\Newtonsoft.Json.xml
+D:\amesa\work\Prezenz Badger\src\obj\Debug\Prezenz Badger.csproj.CoreCompileInputs.cache
+D:\amesa\work\Prezenz Badger\src\obj\Debug\Prezenz Badger.csproj.CopyComplete
+D:\amesa\work\Prezenz Badger\src\obj\Debug\Prezenz Badger.dll
+D:\amesa\work\Prezenz Badger\src\obj\Debug\Prezenz Badger.pdb
+D:\amesa\work\Prezenz Badger\src\obj\Debug\Prezenz Badger.csproj.AssemblyReference.cache
